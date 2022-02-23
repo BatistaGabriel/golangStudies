@@ -13,8 +13,8 @@ package main
 *
 *	para multiplos imports é possível usar a sintaxe:
 *	import (
-*		"package_A",
-*		"package_B",
+*		"package_A"
+*		"package_B"
 *			...
 *	)
  */
